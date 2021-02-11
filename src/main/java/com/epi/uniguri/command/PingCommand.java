@@ -9,7 +9,7 @@ public class PingCommand implements Command {
 
     @Override
     public String getCommand() {
-        return "!ping";
+        return "ping";
     }
 
     @Override
